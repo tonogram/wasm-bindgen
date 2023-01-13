@@ -21,7 +21,7 @@ futures-core-03-stream = ['futures-core']
 
 [target.'cfg(target_feature = "atomics")'.dependencies.web-sys]
 path = "../web-sys"
-version = "0.3.24"
+version = "0.3.60"
 features = [
     "MessageEvent",
     "Worker",
